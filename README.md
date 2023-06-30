@@ -56,7 +56,9 @@ if you enter 5 then, the pattern should be like this-
 
 ● Take input from user :-
 You will take an integer input n from stdin.
+
 ● Constraints :-
 1 <= n <= 26
+
 ● Output Format
 Your output should be the pattern according to the input which you had entered.
